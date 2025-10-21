@@ -40,6 +40,7 @@ Một game thể thao arcade được phát triển bằng **Unity 2025 (Unity 6
 3. Vào File > Build Settings, chọn Windows và nhấn Build.
 
 4. Chạy file .exe trong thư mục build.
-Deployment
+
+5.Deployment
 ```bash
 https://quoccc86.github.io/snowboarder-webgl2/
