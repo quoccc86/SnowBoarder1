@@ -34,7 +34,7 @@ Một game thể thao arcade được phát triển bằng **Unity 2025 (Unity 6
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/quoccc86/SnowBoarder.git
+   git clone https://github.com/quoccc86/SnowBoarder1.git
 2. Mở project bằng Unity 2025.
 
 3. Vào File > Build Settings, chọn Windows và nhấn Build.
